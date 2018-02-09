@@ -12,9 +12,13 @@ I created a Python script to visualize the weather of 500+ cities across the wor
 
 ### A series of scatter plots to showcase the following relationships:
 * Temperature (F) vs. Latitude
+![Max_Temp](Plots/Max_Temp.png)
 * Humidity (%) vs. Latitude
+![Humidity](Plots/humidity.png)
 * Cloudiness (%) vs. Latitude
+![Cloudy](Plots/cloudy.png)
 * Wind Speed (mph) vs. Latitude
+![Wind_speed](Plots/wind_speed.png)
 
 ### The final jupyter notebook contains the following:
 * Randomly selected **at least** 500 unique (non-repeat) cities based on latitude and longitude using the citipy library.

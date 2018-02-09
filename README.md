@@ -1,7 +1,7 @@
 # What's the weather like ?
 
-### objective:
-Visualize the weather of 500+ cities across the world of varying distance from the equator and create a representative model of weather across world cities.
+### Objective:
+Develop Python Scripts to visualize the weather of 500+ cities across the world of varying distance from the equator and create a representative model of weather across world cities.
 
 ### "What's the weather like as we approach the equator?" 
 Whether financial, political, or social -- data's true power lies in its ability to answer questions definitively. Let's take a fundamental question: "What's the weather like as we approach the equator?"

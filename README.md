@@ -26,7 +26,7 @@ Created a Python script to visualize the weather of 500+ cities across the world
 * A weather check on each of the cities using a series of successive API calls using OpenWeatherAPI.
 * Includes a print log of each city as it's being processed with the city number and city name.
 * plotted the relationships using MatplotLib library in Python.
-* Saved both a CSV of all data retrieved and png images for each scatter plot.
+* Saved both a CSV of all data retrieved [API_Data](API_Data/weatherAPI.csv) and png images for each scatter plot.
 
 ### Conducted a study on OpenWeatherMap API. 
 Based on the initial study,the following basic questions about the API are answered:

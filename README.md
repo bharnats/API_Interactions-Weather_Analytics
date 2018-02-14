@@ -30,6 +30,7 @@ Created a Python script to visualize the weather of 500+ cities across the world
 
 ### Conducted a study on OpenWeatherMap API. 
 [OpenWeatherMap API](https://openweathermap.org/api)
+
 Based on the initial study,the following basic questions about the API are answered:
 * Where do you request the API key? 
 * Which Weather API in particular will you need? 

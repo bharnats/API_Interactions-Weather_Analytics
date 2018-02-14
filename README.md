@@ -29,13 +29,15 @@ Created a Python script to visualize the weather of 500+ cities across the world
 * Saved both a CSV of all data retrieved [API_Data](API_Data/weatherAPI.csv) and png images for each scatter plot.
 
 ### Conducted a study on OpenWeatherMap API. 
+[OpenWeatherMap API](https://openweathermap.org/api)
 Based on the initial study,the following basic questions about the API are answered:
 * Where do you request the API key? 
 * Which Weather API in particular will you need? 
 * What URL endpoints does it expect? 
 * What JSON structure does it respond with?
 
-### Worked with Python library- citipy 
+### Worked with Python library- citipy  
+https://pypi.python.org/pypi/citipy
 * deciphered how it works and why its relevant.
 * how It can be used in conjunction with Open WeatherAPI.
 
